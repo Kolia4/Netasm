@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netasm", "Netasm\Netasm.csproj", "{BF929ADF-C6E8-4043-A288-B372E12D5EE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{B1F1C2BE-9A8B-46C8-8DEB-1DB78EE3569A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF929ADF-C6E8-4043-A288-B372E12D5EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF929ADF-C6E8-4043-A288-B372E12D5EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF929ADF-C6E8-4043-A288-B372E12D5EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF929ADF-C6E8-4043-A288-B372E12D5EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F1C2BE-9A8B-46C8-8DEB-1DB78EE3569A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F1C2BE-9A8B-46C8-8DEB-1DB78EE3569A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F1C2BE-9A8B-46C8-8DEB-1DB78EE3569A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F1C2BE-9A8B-46C8-8DEB-1DB78EE3569A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
