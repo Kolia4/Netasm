@@ -1,5 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Netasm;
+using Tests.Applications;
 
 namespace Tests
 {
@@ -9,7 +11,7 @@ namespace Tests
         [TestMethod]
         public void Debug()
         {
-
+            var compiler = new Compiler(new Program());
         }
     }
 }
